@@ -1,3 +1,5 @@
-﻿#Shump Project
+﻿#Shmup Project
 
-*[{Process Documentation](./Process) 
+basic description
+
+*[Process Documentation] (./Process/)
