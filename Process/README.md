@@ -10,6 +10,6 @@ Part of the puzzle of the game will be figuring out how to bank projectiles comi
  
  The outcome of this game will be getting through the levels without destroying the flow of time and collecting all the artifacts you can and enough fuel to get to the next level. 
  
-  
+ 
 
 *[Process Documentation] (./Process/)
