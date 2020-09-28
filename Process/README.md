@@ -1,15 +1,5 @@
 ﻿#Shmup Project
 
-I wanted to create something with a mechanic that let me try something a little outside of the box. I decided to go with the time traveller who ricochets bullets because I think it 
-allows for something a little different but also stays in the shmup genre. I also really like the idea of a stylized game, so having something a little "Back to the Future"- esque 
-is a little cool. I envision this game as a player vs. game dynamic, where the player has to work against the challenge set by the game to prevail and achieve the objective.
-The overall objective in this game will be to avoid the enemies in the game, while also not disturbing the overall environment. As a time traveller, if you destroy something that changes the flow of time, you instantly loose the game. This adds a puzzle dynamic to the game. 
-Part of the puzzle of the game will be figuring out how to bank projectiles coming from enemies to hit other enemies. This will involve some need to bank projectiles around corners so you aren't immediately stomped on by a TRex guarding an area, or banking shots to destroy walls that allow you access to areas of the game. There will be an element of bullet hell in some later levels that necessitate more of a dodge tactic than more of a cerebral tactic. 
- There will also be items to collect in the environment. The two most important pick ups will be fuel cells that power your time travel and the artifacts you've been commissioned to find in your time travel. The artifacts will give you points as you pick them up. The fuel cells will allow you to move to the next level. 
- Enemies can deplete your health through shooting at you. Another way to fail the level is my altering the flow of time too much, and creating an alternate universe that erases your entire existence. I haven't decided whether I want the only way for the character to be able to destroy enemies is to ricochet projectiles, or if I want the character to have a gun, but then have another 'health bar' that dictates if the player has altered time too much to continue in the game. This way, the player will have to make calculated decisions when to shoot something, and add a level of problem solving. Because there might be two ways to win a level, but one would involve using your own gun, and that way you'd run out of ability to use your own bullets in a later level where you might actually need to shoot something with your own gun. This resource management element is something I really want to explore in this game, because often I think shoot em up type games are all about inflicting mass damage and killing as many enemies as possible. This game I want to reward more elegant, conservative solutions that involve as little damage as possible and reward puzzle solving and planning for future encounters.
- 
- The outcome of this game will be getting through the levels without destroying the flow of time and collecting all the artifacts you can and enough fuel to get to the next level. 
- 
- 
+basic description
 
 *[Process Documentation] (./Process/)
